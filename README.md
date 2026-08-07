@@ -1,4 +1,4 @@
-# Invitacion de 15 anos - Madison Perez
+# Invitación de 15 años - Madison Peréz
 
 Sitio estatico listo para publicar gratis en GitHub Pages.
 
